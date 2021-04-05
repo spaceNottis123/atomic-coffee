@@ -1,6 +1,4 @@
 <template>
-  <!--    <img src="../assets/img/SHOP-ICON.svg"/>-->
-  <div class="navbar">
       <header>
         <img class="logo" src="../assets/img/logo.svg" alt="logo"/>
         <nav>
@@ -12,7 +10,6 @@
             </ul>
         </nav>
       </header>
-  </div>
 </template>
 
 <script>
